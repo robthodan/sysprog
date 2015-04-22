@@ -22,3 +22,5 @@ TokenType Token::getType() {
 void Token::setType(TokenType type) {
 	this->type = type;
 }
+
+//test
